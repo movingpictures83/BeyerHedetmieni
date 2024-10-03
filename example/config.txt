@@ -1,0 +1,2 @@
+Prefix plugins/BeyerHedetmieni/example/
+Plugin BeyerHedetmieni inputfile counts.txt outputfile tree
